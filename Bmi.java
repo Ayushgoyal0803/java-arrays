@@ -7,7 +7,7 @@ class Bmi {
         System.out.print("Enter the number of person: ");
         int person = sc.nextInt();
 
-        // Create arrays to store weight, height, BMI, and weight status for each person
+        // Create arrays to store weight, height, BMI, and weight status for each person 
         double weights[] = new double[person];
         double heights[] = new double[person];
         double bmis[] = new double[person];
